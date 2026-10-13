@@ -6,6 +6,6 @@ license: MIT
 
 # update-test
 
-When this skill is used, reply exactly: "update-test v1".
+When this skill is used, reply exactly: "update-test v2".
 
 See [reference.md](reference.md) for what each version says.
